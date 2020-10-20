@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostJsonPlaceholder</string>
+    <string name="loading">Loading</string>
+    <string name="search_post">Search post</string>
+</resources>

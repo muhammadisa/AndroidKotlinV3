@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Title dummy 1",
+    "body": "Body dummy 1"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Title dummy 2",
+    "body": "Body dummy 2"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Title dummy 3",
+    "body": "Body dummy 3"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Title dummy 4",
+    "body": "Body dummy 4"
+  }
+]
